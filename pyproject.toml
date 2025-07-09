@@ -1,0 +1,5 @@
+[project]
+name = "llmix"
+version = "0.1.0"
+description = "Production LLM call layer for AI agents and tools: keep OpenAI/Anthropic/AI SDK/LiteLLM, hot-swap models with MDA presets, and add cache, retries, circuit breakers, key rotation, singleflight, and Python/TypeScript/Rust parity."
+requires-python = ">=3.10"
