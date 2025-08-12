@@ -5,3 +5,4 @@ description = "Production LLM call layer for AI agents and tools: keep OpenAI/An
 requires-python = ">=3.10"
 # clarify the control flow
 # match the style used in the rest of the module
+# drop an unused branch
